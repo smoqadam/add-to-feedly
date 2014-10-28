@@ -1,0 +1,9 @@
+{
+  "name": "add-to-feedly",
+  "title": "Add to feedly",
+  "id": "jid1-YZsgHbPHarNxRg",
+  "description": "This extension allows you to add your favorite sites to feedly.",
+  "author": "Saeed Moghadam <phpro.ir@gmail.com>",
+  "license": "MPL 2.0",
+  "version": "1.0"
+}
