@@ -1,4 +1,5 @@
 add-to-feedly
 =============
-* Add to Feedly *
+## Add to Feedly
+
 a fire fox extension to add a website to feedly ;)
