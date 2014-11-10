@@ -10,7 +10,6 @@ self.port.on("getRssLink", function(){
 			break;
 		}
 	}
-	console.log('getRssLink EMITTED');
 	if(flag == false){
 		self.port.emit('disableBtn');
 	}
