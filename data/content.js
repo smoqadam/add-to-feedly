@@ -5,7 +5,7 @@ self.port.on("getRssLink", function(){
 	{
 		if (links[i].getAttribute('type') == 'application/rss+xml')
 		{
-			self.port.emit('setRssLink',links[i].getAttribute('href'));
+			self.port.emit('setRssLink', links[i].href);
 			flag = true;
 			break;
 		}
